@@ -7,7 +7,7 @@ export default function Meme(){
             
                 <input
                     type="text"
-                    placeholder="top text"
+                    placeholder="Top text"
                     className="form--input"
                 />
                 <input
